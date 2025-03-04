@@ -7,6 +7,7 @@
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
 </p>
 <br>
+<div width="100%" align="center">
 - 🔭 I’m currently working on a chatbot
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about NLP, Data Science Concepts
