@@ -10,17 +10,16 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on a chatbot
+- 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about NLP, Data Science Concepts
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/asinha20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asinha20/" height="30" width="40" /></a>
-- ⚡ Fun fact: 
+
 -->
 
 
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/Aryan011001?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/xBTmas?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
