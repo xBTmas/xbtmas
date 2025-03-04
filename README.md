@@ -1,4 +1,10 @@
-## Hi there 👋
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Jay+" />
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
+</p>
 
 <!--
 **xBTmas/xbtmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
