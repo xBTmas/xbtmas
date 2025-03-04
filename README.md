@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about NLP, Data Science Concepts
 - 📫 How to reach me:<a href="https://www.linkedin.com/in/asinha20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asinha20/" height="30" width="40" /></a>
-<br>
+</div>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
